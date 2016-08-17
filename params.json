@@ -1,0 +1,6 @@
+{
+  "name": "Powershell-scripts",
+  "tagline": "Powershell scripts for Windows and SQL Server administration",
+  "body": "### Welcome\r\n\r\nThis repository has Powershell scripts for administering Windows and SQL Servers.\r\n\r\n### Authors and Contributors\r\n2016/08: @SQLFinn\r\n\r\n### Support or Contact\r\nN/A yet.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
